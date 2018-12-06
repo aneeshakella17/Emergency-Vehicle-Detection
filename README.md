@@ -1,6 +1,6 @@
 # Emergency Vehicle Object detection
-   >by Aneesh Akella and Andrew Leonard
-   >Special Ackwnoledgements to Matterport and Professor Ogunfunmi
+   >by Aneesh Akella and Andrew Leonard with
+   Special Ackwnoledgements to Matterport and Professor Ogunfunmi
 
 
  For this project, there are three primary folders:
